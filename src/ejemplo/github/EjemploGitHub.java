@@ -15,6 +15,11 @@ public class EjemploGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Bienvenidos ");
+        System.out.println(" ");
+        System.out.println(" Todos y Todas");
+        System.out.println(" ");
+        System.out.println(" Primera actualiacion neat beans");
         // TODO code application logic here
     }
     
